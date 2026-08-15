@@ -185,5 +185,14 @@
       "Great work comparing commits in git history!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1786761126.592988,
+    "completed_at": 1786761129.533669,
+    "comments": [
+      "Missing question What's sum of values in south.csv on Jan 11th? in answers file."
+    ],
+    "status": "Error"
   }
 ]
